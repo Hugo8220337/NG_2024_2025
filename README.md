@@ -8,6 +8,9 @@
 
 ---
 
+# NG_2024_2025
+Análise estratégica e organizacional da Critical Software. Relatório desenvolvido para a UC de Noções de Gestão (SWOT, Mapeamento de Processos e Riscos).
+
 <h2>Authors</h2>
 
 <h3>
